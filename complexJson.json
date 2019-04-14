@@ -1,6 +1,6 @@
 {
 "result": "true",
-"menu": {
+"payload": {
   "id": "file",
   "value": "File",
   "popup": {
