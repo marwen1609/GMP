@@ -1,6 +1,11 @@
 {
   "result": "false",
-  "payload": [ {
-    "name": "typicode"
-  }]
+  "payload": [
+    {
+      "name": "typicode"
+    },
+    {
+      "otherObject": 23
+    }
+  ]
 }
