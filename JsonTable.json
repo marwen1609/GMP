@@ -1,6 +1,6 @@
 [
 {
-  "result": 1,
+  "result": 0,
   "payload": [
       {"value": "New", "onclick": "CreateNewDoc"},
       {"value": "Open", "onclick": "OpenDoc"},
